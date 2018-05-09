@@ -1,0 +1,98 @@
+# Copyright (C) 2018 archive-title-stripper
+# This file is distributed under the same license as the archive-title-stripper package.
+msgid ""
+msgstr ""
+"Project-Id-Version: archive-title-stripper\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: Author archive title. 1: Author name
+#: ../archive-title-stripper.php:26
+msgid "Author: %s"
+msgstr ""
+
+#. translators: Yearly archive title. 1: Year
+#: ../archive-title-stripper.php:29
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive-title-stripper.php:29
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. translators: Monthly archive title. 1: Month name and year
+#: ../archive-title-stripper.php:32
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive-title-stripper.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#. translators: Daily archive title. 1: Date
+#: ../archive-title-stripper.php:35
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive-title-stripper.php:35
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../archive-title-stripper.php:38
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../archive-title-stripper.php:40
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../archive-title-stripper.php:42
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../archive-title-stripper.php:44
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../archive-title-stripper.php:46
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../archive-title-stripper.php:48
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../archive-title-stripper.php:50
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../archive-title-stripper.php:52
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../archive-title-stripper.php:54
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../archive-title-stripper.php:64
+msgid "Archives"
+msgstr ""
